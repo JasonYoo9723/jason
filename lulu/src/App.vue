@@ -4,7 +4,7 @@
 </template>
 
 <script>
-import IndexPage from './components/IndexPage.vue' 
+import IndexPage from './components/IndexPage.vue'
 
 export default {
   name: 'App',
